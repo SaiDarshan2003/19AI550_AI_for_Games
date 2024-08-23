@@ -1,6 +1,6 @@
 # Ex.No: 5  Implementation of Jumping behavior 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:23/8/24
+### REGISTER NUMBER : 212221240047
 ### AIM: 
 To write a python program to simulate Jumbing behavior. 
 ### Algorithm:
