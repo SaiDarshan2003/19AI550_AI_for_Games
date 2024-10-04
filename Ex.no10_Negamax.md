@@ -49,6 +49,7 @@ print(negamax(0, 0, scores, int(treeDepth)))
 
 ## Output:
 
+![image](https://github.com/user-attachments/assets/97f10fde-2107-4ad2-9a4d-ab134981c069)
 
 
 ## Result:
