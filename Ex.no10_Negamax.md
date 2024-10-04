@@ -1,24 +1,32 @@
 # Ex.No: 10 Implementation of Negamax algorithm 
 
-# DATE: 5-10-2024
+## DATE: 5-10-2024
 
-# REGISTER NUMBER : 212221240047
+## REGISTER NUMBER : 212221240047
 
-# AIM:
+## AIM:
 
 Write a negamax algorithm to find the optimal value of Player from the graph.
 
-# Steps:
+## Steps:
+
 Start the program
+
 Define the minimax function
+
 If maximum depth is reached then return the score value of leaf node. [depth taken as 3]
+
 In Max player turn, assign the  maximum value by calling the negamax function recursively.
+
 In Min player turn, finding the maximum value by taking the negation of its children.
+
 Specify the score value of leaf nodes and Call the negamax function.
+
 Print the best value of Max player.
+
 Stop the program.
 
-# Program:
+## Program:
 
 ```
 import math
@@ -41,11 +49,11 @@ print("The optimal value is: ", end="")
 print(negamax(0, 0, scores, int(treeDepth)))
 ```
 
-# Output:
+## Output:
 
 
 
-# Result:
+## Result:
 
 
 
